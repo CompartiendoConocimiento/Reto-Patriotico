@@ -20,3 +20,5 @@ en caso que ubiera mas de uno, el sistema te muestra esas
 opciones
 
 el sistema no contempla a los hijos
+
+ARCHIVO ADJUNTO:    http://goo.gl/hQacb2
