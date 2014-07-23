@@ -1,16 +1,16 @@
 Fin de semana largo !! todos de vacaciones.....!!
 y ahora a donde vamos ???
 
-teniendo como base los datos del archivo adjunto completa
+teniendo como base los datos del archivo adjunto; completa
 el sigueinte reto.
 
 
 
 objetivos de este reto
 
-1- Aprender a optener datos de archivos externos
+1- Aprender a obtener datos de archivos externos
 2- Creatividad e imaginacion en desarrollar la aplicacion.
-3.-Desarrollo del sentido comun
+3.-Sentido común
 
 teniendo como datos la cantidad de dinero que dispones, 
 los servicios que esperas, recomendacion de otros viajeros 
