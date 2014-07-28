@@ -27,3 +27,5 @@ import reto_final
 
 reto_final.main()
 ```
+ver imagen 
+https://drive.google.com/file/d/0B14Ml2x1UFdJR0tjSVNET1A3YUU/edit?usp=sharing
