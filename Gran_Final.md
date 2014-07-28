@@ -19,7 +19,7 @@ En esta ocasión, el reto consistirá en [MINAR DATOS](http://es.wikipedia.org/w
   - [PyGitHub](https://pypi.python.org/pypi/PyGithub)
   - [matplotlib](http://matplotlib.org/)
 
-##Ejemplo:
+###Ejemplo:
 - Usando mi cuenta de GitHub: "Ismael-VC" ismael.vc1337@gmail.com  
 
 ```bash
