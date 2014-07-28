@@ -21,3 +21,9 @@ En esta ocasión, el reto consistirá en [MINAR DATOS](http://es.wikipedia.org/w
 
 ##Ejemplo:
 - Usando mi cuenta de GitHub: "Ismael-VC" ismael.vc1337@gmail.com  
+
+```bash
+import reto_final
+
+reto_final.main()
+```
